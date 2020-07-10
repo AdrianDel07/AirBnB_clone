@@ -2,6 +2,7 @@
 file.json
 console.py
 test_save_reload_user.py
+w3c_validator.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

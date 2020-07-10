@@ -5,9 +5,7 @@ body {
     font-size: 14px;
     color: #484848;
   }
-  .container {
+.container {
       max-width: 1000px;
-      margin-top: 30px;
-      margin-bottom: 30px;
-      position: relative;
+      margin: 30px auto;
   }
