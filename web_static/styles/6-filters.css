@@ -4,10 +4,9 @@
     height: 70%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    align-items: center;
     display: inline-block;
 }
-button {
+.filters button {
     font-size: 18px;
     background-color: #FF545F;
     color: #FFFFFF;
@@ -16,7 +15,6 @@ button {
     border: 0;
     border-radius: 4px;
     margin: 10px 30px 10px 0px;
-    position: relative;
     float: right;
 }
 button:hover {
@@ -32,6 +30,10 @@ button:hover {
     margin: 3px 0px 3px 0px;
     float: left;
 }
+
+h2 {
+    font-size: 16px;
+}
 h3 {
     margin: 0px 12px 0px 10px;
     font-weight: 600;
@@ -40,4 +42,30 @@ h4 {
     margin: 6px 10px 6px 10px;
     font-weight: 400;
     font-size: 14px;
+}
+ul, li {
+    list-style-type: none;
+    margin: 10px;
+}
+.popover {
+    background-color: #FAFAFA;
+    border: 1px solid #DDDDDD;
+    width: 20%;
+    margin-left: -41px;
+    border-radius: 4px;
+    height: auto;
+}
+ul.popover{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 13px;  
+    position: absolute;
+    display: none; 
+}
+
+.locations:hover ul.popover {
+    display: block;
+}
+.amenities:hover ul.popover {
+    display: block;
 }
