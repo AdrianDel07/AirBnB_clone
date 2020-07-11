@@ -26,8 +26,7 @@ button:hover {
 .locations, .amenities {
     width: 25%;
     height: 100%;
-    padding: 6px 25px 6px 40px;
-    margin: 3px 0px 3px 0px;
+    padding: 12px 25px 10px 40px;
     float: left;
 }
 
@@ -51,6 +50,7 @@ ul, li {
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     width: 20%;
+    padding-right: 3px;
     margin-left: -41px;
     border-radius: 4px;
     height: auto;
@@ -58,7 +58,7 @@ ul, li {
 ul.popover{
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-top: 13px;  
+    margin-top: 10px;  
     position: absolute;
     display: none; 
 }
