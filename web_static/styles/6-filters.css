@@ -30,28 +30,27 @@ button:hover {
     float: left;
 }
 
-h3 {
+.filters h3 {
     margin: 0px 12px 0px 10px;
     font-weight: 600;
 }
-h4 {
+.filters h4 {
     margin: 6px 10px 6px 10px;
     font-weight: 400;
     font-size: 14px;
 }
-ul, li {
-    list-style-type: none;
-    margin: 7px;
-    padding-left: 0px;
-}
-.filters .popover {
+.popover {
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     width: 295px;
-    padding-right: 3px;
     margin-left: -41px;
     border-radius: 4px;
     height: auto;
+}
+.popover ul {
+    list-style-type: none;
+    margin: 7px;
+    padding-left: 0px;
 }
 .popover h2 {
     font-size: 16px;
