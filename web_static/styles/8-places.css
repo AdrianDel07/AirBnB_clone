@@ -33,7 +33,7 @@
     text-align: center;
     margin: 10px 15px 0px -40px;
 }
-.information {
+.places .information {
     height: 80px;
     border-top: 1px solid #DDDDDD;
     border-bottom: 1px solid #DDDDDD;
@@ -64,7 +64,7 @@
     display: block;
     content: url('../images/icon_bath.png');
 }
-.user {
+.places .user {
     float: left;
     margin-left: 15px;
 }
@@ -72,7 +72,7 @@
     display: inline-block;
     margin-bottom: 5px;
 }
-.description {
+.places .description {
     display: inline-block;
     height: 150px;
 }

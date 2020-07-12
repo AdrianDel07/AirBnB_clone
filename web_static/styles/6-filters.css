@@ -23,7 +23,7 @@ button:hover {
 .filters div:first-child {
     border-right: 1px solid #DDDDDD;
 }
-.filters .locations, .amenities {
+.filters .locations, .filters .amenities {
     width: 25%;
     height: 100%;
     padding: 12px 25px 10px 40px;
@@ -44,7 +44,7 @@ ul, li {
     margin: 7px;
     padding-left: 0px;
 }
-.popover {
+.filters .popover {
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     width: 295px;
