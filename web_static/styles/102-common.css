@@ -1,0 +1,24 @@
+html { 
+    font-size: 1em; 
+  } 
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;;
+    font-size: 14px;
+    color: #484848;
+  }
+@media screen and (min-width: 800px) { 
+    .container { 
+      margin: 1em 2em; 
+    } 
+}
+.container {
+      max-width: 1000px;
+      margin: 30px auto;
+}
+@media (min-width: 1200px) { 
+    h1 {
+      font-size: 4rem; 
+    }
+} 
