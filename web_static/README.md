@@ -11,7 +11,7 @@ Static Website. A static website contains Web pages with fixed content. Each pag
 ![Error](https://www.tutorialspoint.com/internet_technologies/images/internet-static_web_page.jpg)
 
 
-![Error](https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png)
+![Error](https://www.html5rocks.com/static/demos/svgmobile_fundamentals/images/html5-1920x1200.jpg)
 Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
 
 
